@@ -50,21 +50,29 @@ def listcommands(option=None):
   # 
   # Where what gets executed is command fileame so include and flags needed in the command.
   programlist = [
-  ["XNView", "\"C:\\PF\\XnView\\xnview.exe\"", "png"],
-  ["MS Paint", "\"..\\..\\..\\..\\WINDOWS\\system32\\mspaint.exe\"", "bmp"],
-  ["InPaint", "\"C:\\PF\\Inpaint\\Inpaint.exe\"", "png"],
+  ["Analog Efex Pro2", "\"G:\\Program Files\\Google\\Nik Collection\\Analog Efex Pro 2\\Analog Efex Pro 2 (64-Bit)\\Analog Efex Pro 2.exe\"", "tif"],
+  ["Color Efex Pro4", "\"G:\\Program Files\\Google\\Nik Collection\\Color Efex Pro 4\\Color Efex Pro 4 (64-Bit)\\Color Efex Pro 4.exe\"", "tif"],
+  ["Dfine2", "\"G:\\Program Files\\Google\\Nik Collection\\Dfine 2\\Dfine 2 (64-Bit)\\Dfine2.exe\"", "tif"],
+  ["SharpenerPro3 OS" , "\"G:\\Program Files\\Google\\Nik Collection\Sharpener Pro 3\\Sharpener Pro 3 (64-Bit)\\SP3OS.exe\"", "tif"],
+  ["SharpenerPro3 RPS", "\"G:\\Program Files\\Google\\Nik Collection\Sharpener Pro 3\\Sharpener Pro 3 (64-Bit)\\SP3RPS.exe\"", "tif"],
+  ["Silver Efex Pro2", "\"G:\\Program Files\\Google\\Nik Collection\\Silver Efex Pro 2\\Silver Efex Pro 2 (64-Bit)\\Silver Efex Pro 2.exe\"", "tif"],
+  ["Viveza2", "\"G:\\Program Files\\Google\\Nik Collection\\Viveza 2\\Viveza 2 (64-Bit)\\Viveza 2.exe\"", "jpg"],
+  #["MS Paint", "\"C:\\WINDOWS\\system32\\mspaint.exe\"", "bmp"],
+  #["XNView", "\"C:\\PF\\XnView\\xnview.exe\"", "png"],
+  #["MS Paint", "\"..\\..\\..\\..\\WINDOWS\\system32\\mspaint.exe\"", "bmp"],
+  #["InPaint", "\"C:\\PF\\Inpaint\\Inpaint.exe\"", "png"],
   #["Deep Paint", "\"C:\\Program Files\\DeepPaint\\deeppaint.exe\"", "jpg"],
   #["Inkscape", "\"C:\\Program Files\\Inkscape\\inkscape.exe\"", "png"],
   #["PaintDOTNet", "\"C:\\Program Files\\Paint.NET\\PaintDotNet.exe\"", "png"],
   #["MyPaint", "\"C:\\Program Files\\MyPaint\\mypaint.exe\"", "png"],
   #["Photo Filter Factory", "\"C:\\Program Files\\Photo Filter Factory\\Photo Filter Factory.exe\"", "png"],
   #["Photo Pos Pro", "\"C:\\Program Files\\Photo Pos Pro\\Photo Pos Pro.exe\"", "png"],
-  ["Java Image Editor", "\"C:\\JavaJars\\imageeditor.bat\"", "png"],
-  ["Java Mosaic", "\"C:\\JavaJars\\mosaic.bat\"", "png"],
-  ["JDraw", "\"C:\\JavaJars\\jdraw.bat\"", "png"],
+  #["Java Image Editor", "\"C:\\JavaJars\\imageeditor.bat\"", "png"],
+  #["Java Mosaic", "\"C:\\JavaJars\\mosaic.bat\"", "png"],
+  #["JDraw", "\"C:\\JavaJars\\jdraw.bat\"", "png"],
   #["Vector Magic", "\"C:\\Program Files\\Vector Magic\\vmde.exe\"", "png"],
   #["Photo Clinic", "\"C:\\MAGIX\\Photo_Clinic_45\\PhotoClinic.exe\"", "png"],
-  ["Smilla Enlarger", "\"C:\\utils\\SmillaEnlarger\\SmillaEnlarger.exe\"", "png"],
+  #["Smilla Enlarger", "\"C:\\utils\\SmillaEnlarger\\SmillaEnlarger.exe\"", "png"],
   ["","",""]
   ]
   
