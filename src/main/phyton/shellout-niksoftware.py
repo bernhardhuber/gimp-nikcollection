@@ -176,10 +176,10 @@ register(
         "python_fu_shellout",
         "Call an external program",
         "Call an external program",
-        "Rob Antonishen",
-        "Copyright 2011 Rob Antonishen",
+        "Rob Antonishen, Bernhard Huber",
+        "Copyright 2011 Rob Antonishen,2019 Bernhard Huber",
         "2011",
-        "<Image>/Filters/ShellOut...",
+        "<Image>/Filters/ShellOutNikCollection...",
         "RGB*, GRAY*", 
         [ (PF_RADIO, "visible", "Layer:", 1, (("new from visible", 1),("current layer",0))),
           (PF_OPTION,"command",("Program:"),0,listcommands())
